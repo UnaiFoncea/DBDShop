@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DBDShopLib
 {
-    public class Class1
+    public class Product
     {
+        public int Id = 0;
+        public string Name = null;
     }
 }
